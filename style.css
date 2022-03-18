@@ -1,0 +1,28 @@
+button {
+  border: 2px solid black;
+  padding: 5px 10px;
+  background-color: white;
+  font-size: 20px;
+  margin: 7px 5px;
+}
+body {
+  text-align: center;
+  background-color: rgb(206, 206, 206);
+  background-color: #e4e4e4;
+  padding: 55px 20px;
+  font-family: monospace;
+  letter-spacing: 1.5px;
+}
+p {
+  font-size: 25px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+section {
+  width: 700px;
+  margin: 30px auto;
+  max-width: 94%;
+}
+b {
+  font-size: 28px;
+}
